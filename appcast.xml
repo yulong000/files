@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iDock</title>
+        <item>
+            <title>1.0.4</title>
+            <pubDate>Mon, 11 Mar 2024 17:39:42 +0800</pubDate>
+            <sparkle:version>2024030801</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="iDock.app.zip" length="5071943" type="application/octet-stream" sparkle:edSignature="CaT5Szznj815jn66xORE8QeaC3iaZLdikwZC0DreVfzm4epQSuTM4e7riWkIvTWChILXUXwKbZDsxP34eki9BA=="/>
+        </item>
+    </channel>
+</rss>

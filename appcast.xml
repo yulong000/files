@@ -8,7 +8,7 @@
             <sparkle:version>2024030801</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="iDock.app.zip" length="5071943" type="application/octet-stream" sparkle:edSignature="CaT5Szznj815jn66xORE8QeaC3iaZLdikwZC0DreVfzm4epQSuTM4e7riWkIvTWChILXUXwKbZDsxP34eki9BA=="/>
+            <enclosure url="https://raw.githubusercontent.com/yulong000/files/blob/main/iDock.app.zip" length="5071943" type="application/octet-stream" sparkle:edSignature="CaT5Szznj815jn66xORE8QeaC3iaZLdikwZC0DreVfzm4epQSuTM4e7riWkIvTWChILXUXwKbZDsxP34eki9BA=="/>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application>
+    <Name>Battery</Name>
+    <BundleId>cn.better365.Battery</BundleId>
+    <MiniVersion>1.1.6</MiniVersion>
+    <ForceUpdateToTheLastest>0</ForceUpdateToTheLastest>
+</Application>

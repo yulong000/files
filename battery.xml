@@ -4,6 +4,6 @@
     <BundleId>cn.better365.Battery</BundleId>
     <ForceUpdateToTheLatest>false</ForceUpdateToTheLatest>
     <MiniVersion>1.1.6</MiniVersion>
-    <ExpiredDate>2024-10-30</ExpiredDate>
+    <ExpiredDate>2027-10-30</ExpiredDate>
     <ExpiredOSVersion>17.0</ExpiredOSVersion>
 </Application>

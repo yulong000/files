@@ -2,7 +2,7 @@
 <Application>
     <Name>Battery</Name>
     <BundleId>cn.better365.Battery</BundleId>
-    <ForceUpdateToTheLatest>false</ForceUpdateToTheLatest>
+    <ForceUpdateToTheLatest>true</ForceUpdateToTheLatest>
     <MiniVersion>1.1.6</MiniVersion>
     <ExpiredDate>2027-10-30</ExpiredDate>
     <ExpiredOSVersion>17.0</ExpiredOSVersion>
